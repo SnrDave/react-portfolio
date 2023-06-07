@@ -21,7 +21,7 @@ const socials = [
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/",
+    url: "https://www.linkedin.com/in/snrdave",
   },
   {
     icon: faMedium,
